@@ -6,4 +6,5 @@
  * Time: 23:38
  */
 
-echo json_encode(['name' => 'Liza']);
+echo json_encode(['first_name' => 'Liza']);
+echo json_encode(['last_name' => 'Zmievskaya']);
