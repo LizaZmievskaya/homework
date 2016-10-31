@@ -8,6 +8,5 @@
 
 
 $ch = curl_init();
-curl_setopt($ch, CURLOPT_URL,'http://localhost/homework/data.php');
 $data = curl_exec($ch);
 curl_close($ch);
