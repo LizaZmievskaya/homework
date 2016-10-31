@@ -7,3 +7,4 @@
  */
 
 echo "Hello! This is the main page.";
+echo "This is a new feature!";
